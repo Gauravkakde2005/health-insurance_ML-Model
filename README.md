@@ -130,7 +130,7 @@ Visit: [http://localhost:8000](http://localhost:8000)
 ---
 
 ## 🖼️ UI Preview
-https://github.com/Gauravkakde2005/health-insurance_ML-Model/image.png
+https://github.com/Gauravkakde2005/health-insurance_ML-Model/blob/main/image.png
 
 
 
